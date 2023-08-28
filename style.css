@@ -1,0 +1,49 @@
+.td1{
+  width: 600px;
+   background-color:#7EE5DA;
+   text-align: center;
+   
+}
+.td2{
+   width: 300px;
+    background-color: #70CCC2;
+    font-size: smaller;
+    text-align: center;
+    
+}
+
+.td3{
+    width: 600px;
+    background-color: #62B3AA;
+    font-size: small;
+    text-align: center;
+   
+}
+
+.table2{
+    width: 90%;
+    display:grid;
+    justify-content: center;
+    margin: 0 auto;
+    
+}
+
+.logo{
+    display: flex;
+    justify-content: center;
+}
+
+.table1 {
+    background-color:#EEEEEE;
+    width: 90%;
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+
+}
+
+.tab1Td1{
+    text-align: center;
+    
+}
+
